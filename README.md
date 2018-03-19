@@ -22,7 +22,6 @@ ALGORITHM: THE WAGGING FOR FEATURE SELECTION
 ---------------------------------------------------
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/algorithm.png" border="0"/></p>
 
-<center> <small>The waggong for feature selection. </center>
 
 BACKGROUND SUBTRACTION RESULTS ON RGB-D DATASET​​​​​​​​​​​​​​
 ---------------------------------------------------
