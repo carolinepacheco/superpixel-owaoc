@@ -28,11 +28,10 @@ Citation
 --------
 If you use this code for your publications, please cite it as:
 ```
-@inproceedings{silva Carolinr,
+@inproceedings{silva Caroline
 author    = {Silva, Caroline and Bouwmans, Thierry and Frelicot, Carl},
 title     = {Superpixel-based incremental wagging one-class ensemble for feature selection in foreground/background separation},
 booktitle = {Pattern Recognition Letters (PRL)},
 year      = {2017},
 url       = hhttps://www.sciencedirect.com/science/article/pii/S0167865517304038}
-}
-``
+```
