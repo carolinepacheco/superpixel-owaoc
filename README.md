@@ -13,7 +13,7 @@ HIGHLIGHTS
 
 BRIEF OVERVIEW OF THE PROPOSED FRAMEWORK
 ---------------------------------------------------
-<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/eensemble_proposed2.png" border="0" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/ensemble_proposed2.png" border="0" /></p>
 
 ALGORITHM: THE WAGGING FOR FEATURE SELECTION 
 ---------------------------------------------------
