@@ -15,14 +15,19 @@ BRIEF OVERVIEW OF THE PROPOSED FRAMEWORK
 ---------------------------------------------------
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/ensemble_proposed2.png" border="0" /></p>
 
+<center> <small> Brief overview of the proposed framework. A set of features are extracted from the training image sequence. Next, our wagging version creates different pools of IWOC-SVM classifiers from a certain feature. A heuristic approach called Small Votes Instance Selection (SVIS) is used in the IWOC-SVM model updating step. Finally, we use a mechanism called Adaptive Importance and Ensemble Pruning (AIC-EP) to update the importance of the classifiers discarding insignificantly classifiers over time. Only the classifiers with high importance are selected and combined to form a strong classifier. The whole framework described here works as incremental manner. </center>
+
+
 ALGORITHM: THE WAGGING FOR FEATURE SELECTION 
 ---------------------------------------------------
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/algorithm.png" border="0"/></p>
 
+<center> <small>The waggong for feature selection. </center>
+
 BACKGROUND SUBTRACTION RESULTS ON RGB-D DATASET​​​​​​​​​​​​​​
 ---------------------------------------------------
 <p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/rgbd_imp_features.png" border="0" /></p>
-
+<center> <small> Background subtraction results on RGB-D dataset -- (a) original frame, (b) features map showing most important feature for each region and (c) its respective histogram of features importance.  </center>
 
 Citation
 --------
