@@ -13,15 +13,15 @@ HIGHLIGHTS
 
 BRIEF OVERVIEW OF THE PROPOSED FRAMEWORK
 ---------------------------------------------------
-<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/ensemble_proposed2.pdf" border="0" height="200"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/eensemble_proposed2.png" border="0" /></p>
 
 ALGORITHM: THE WAGGING FOR FEATURE SELECTION 
 ---------------------------------------------------
-<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/algorithm.png" border="0" height="200"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/algorithm.png" border="0"/></p>
 
 BACKGROUND SUBTRACTION RESULTS ON RGB-D DATASET​​​​​​​​​​​​​​
 ---------------------------------------------------
-<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/rgbd_imp_features.pdf" border="0" height="200"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/carolinepacheco/Superpixel-OWAOC/master/docs/rgbd_imp_features.png" border="0" /></p>
 
 
 Citation
